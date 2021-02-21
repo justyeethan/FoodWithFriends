@@ -102,9 +102,6 @@ Pretty straight forward.
 
 - Create a "Add to group" page that also updates for other people
 - Design a better landing page for index
-- Refine flow of events in blog postings and a delete request for posts and groups
-- Allow users to get a way to accept or decline a follow
-- Incorporate ranking algorithm into program
 - Design swipe mechanism
 
 ## Other Things to Note
